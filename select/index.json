@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ナハトムジーク (Instrumental)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-28T06:44:03.937158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナハトムジーク",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_ナハトムジーク_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナハトムジーク",
+      "artist": "anewhite",
+      "has_synced": true,
+      "path": "select/02_ナハトムジーク_anewhite.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナハトムジーク",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_ナハトムジーク_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナハトムジーク",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_ナハトムジーク_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナハトムジーク - Nachtmusik",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_ナハトムジーク_-_Nachtmusik_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナハトムジーク",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ナハトムジーク_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
